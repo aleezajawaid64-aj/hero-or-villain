@@ -1,0 +1,70 @@
+{
+  "feature_columns": [
+    "publisher_Unknown",
+    "sex_Female",
+    "sex_Male",
+    "sex_Other",
+    "identity_Other",
+    "identity_Public",
+    "identity_Secret",
+    "identity_Unknown",
+    "alive_Deceased",
+    "alive_Living",
+    "alive_Other",
+    "eye_Black",
+    "eye_Blue",
+    "eye_Brown",
+    "eye_Green",
+    "eye_Other",
+    "eye_Unknown",
+    "hair_Black",
+    "hair_Blond",
+    "hair_Brown",
+    "hair_Other",
+    "hair_Red",
+    "hair_Unknown",
+    "appearances",
+    "year"
+  ],
+  "categories": {
+    "publisher": [
+      "Unknown"
+    ],
+    "sex": [
+      "Female",
+      "Male",
+      "Other"
+    ],
+    "identity": [
+      "Other",
+      "Public",
+      "Secret",
+      "Unknown"
+    ],
+    "alive": [
+      "Deceased",
+      "Living",
+      "Other"
+    ],
+    "eye": [
+      "Black",
+      "Blue",
+      "Brown",
+      "Green",
+      "Other",
+      "Unknown"
+    ],
+    "hair": [
+      "Black",
+      "Blond",
+      "Brown",
+      "Other",
+      "Red",
+      "Unknown"
+    ]
+  },
+  "year_median": 1993.0,
+  "year_min": 1936,
+  "year_max": 2013,
+  "test_accuracy": 0.64
+}
